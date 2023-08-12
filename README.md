@@ -65,7 +65,7 @@
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=false">  
 <img  alt="timchapin96's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/timchapin96?cardType=level-alternate&theme=tokyonight&preferLogin=false" />  </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=timchap96&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=timchapin96&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timchapin96&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 

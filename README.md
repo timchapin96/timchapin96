@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/32aRceJMMw9WBQXvJA/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/timothy-chapin/" target="_blank" rel="noopener noreferrer">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/timothy-chapin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://www.instagram.com/timchap96/" target="_blank" rel="noopener noreferrer">

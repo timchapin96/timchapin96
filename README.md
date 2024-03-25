@@ -57,6 +57,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
   <img background="white" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40" background=white/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>
 </div>
 
 

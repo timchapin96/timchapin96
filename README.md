@@ -64,7 +64,6 @@
 ---
 
 ### :fire: My Stats :
-<img  alt="timchapin96's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/timchapin96?cardType=level-alternate&theme=tokyonight&preferLogin=false" />  </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=timchapin96&theme=tokyonight)](https://git.io/streak-stats)
 

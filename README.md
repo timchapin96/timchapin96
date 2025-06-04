@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/a0f5d8c5-d794-4038-b75c-602d2f4f74c9)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/32aRceJMMw9WBQXvJA/giphy.gif" width="100"/>
   <div id="badges">
@@ -23,8 +23,7 @@
   ---
 
   ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/red-panda-44.gif" width="30"> from America   based in Toyko! <img src="https://media.giphy.com/media/eeQUsBxWB6bPHokSTF/giphy.gif" width="30">
-
+  I am a Full Stack Developer <img src="https://usagif.com/wp-content/uploads/2022/4hv9xm/red-panda-44.gif" width="30"> from America based in Osaka! 
   - 👨‍🏫  Currently I am working as an English teacher using my coding to make games for my students.
   
   - 🌱  Exploring React with Next.js.
@@ -65,7 +64,6 @@
 ---
 
 ### :fire: My Stats :
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&preferLogin=false">  
 <img  alt="timchapin96's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/timchapin96?cardType=level-alternate&theme=tokyonight&preferLogin=false" />  </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=timchapin96&theme=tokyonight)](https://git.io/streak-stats)
